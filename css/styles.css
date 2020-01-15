@@ -1,0 +1,26 @@
+h1 {
+  color:#0000ff;
+  text-align: center;
+}
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  list-style-position: inside;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+  border-style: solid;
+  border-right-width: 50px;
+}
+
